@@ -21,7 +21,7 @@
     "d2o"
   ],
   "devDependencies": {
-    "babel-core": "^5.5.0",
+    "babel-core": "^6.26.3",
     "babel-eslint": "^4.1.8",
     "del": "^2.0.2",
     "eslint": "^2.1.0",
